@@ -3,3 +3,8 @@ description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://qth24.github.io
+
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
