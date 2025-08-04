@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: default
 nav_order: 1
 ---
 # 👋 Hi, I'm Thinh (qth24)
@@ -12,13 +12,15 @@ I am currently part of the Information Security Club (Wanna.W1n), serving as a C
 - 💻 Programming: [Python, Powershell,...]
 - ⚙️ Tools: [Linux, Autopsy, Volatility Framework,...]
 
+--- 
+
+A few links related to me:
+
+- 📫 Email: **thinhdq.24@gmail.com**
+- 🔗 GitHub: [https://github.com/qth24](https://github.com/qth24)
+
 ---
 
 ## 🚀 Goals
 
 I aspire to compete in major CTF competitions around the world and achieve top rankings. In the future, I aim to work in a SOC role or another position within the Blue Team.
-
-If you'd like to collaborate, feel free to reach out!
-
-- 📫 Email: **thinhdq.24@gmail.com**
-- 🔗 GitHub: [https://github.com/qth24]  

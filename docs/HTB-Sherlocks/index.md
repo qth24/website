@@ -7,4 +7,4 @@ layout: default
 
 # HTB Sherlocks
 
-Tổng hợp writeup các bài lab Sherlocks.
+Tổng hợp writeup các bài labs Hack The Box - Sherlocks.
